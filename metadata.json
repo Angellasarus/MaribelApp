@@ -1,0 +1,6 @@
+{
+  "name": "Ficha de Entrenamiento Berserker",
+  "description": "Aplicación web profesional para digitalizar y registrar fichas de entrenamiento por grupos de semanas y días de forma dinámica, con guardado automático en LocalStorage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
